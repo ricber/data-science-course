@@ -3,7 +3,7 @@
 This the teaching material that I use for laboratory lessons on practical data science applied to agriculture for the following courses:
 *   Data Analytics for Smart Agriculture (I semester, Politecnico di Milano, Milan campus)
 *   Data Harvesting and Data Analysis for Agriculture (II semester, Politecnico di Milano, Cremona campus)
-*   
+
 **Within each directory, you will find a theory notebook that is extensively commented on the respective lesson topic, along with a homework directory containing exercises and their solutions. The comprehensive index of course topics is provided below.**
 
 ## 01 - Python
