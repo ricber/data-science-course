@@ -40,7 +40,7 @@
 *   Adding and deleting columns
 *   Grouping
 
-04 - Regression
+## 04 - Regression
 
 *   What is Linear Regression?
 *   Why to use Linear Regression?
