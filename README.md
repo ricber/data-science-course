@@ -1,6 +1,6 @@
 # Practical Data Science Lessons
 
-This the teaching material that I use for laboratory lessons on practical data science applied to agriculture for the following courses:
+This is the teaching material that I use for laboratory lessons on practical data science for the following courses:
 *   Data Analytics for Smart Agriculture (I semester, Politecnico di Milano, Milan campus)
 *   Data Harvesting and Data Analysis for Agriculture (II semester, Politecnico di Milano, Cremona campus)
 
