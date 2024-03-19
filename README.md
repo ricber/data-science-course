@@ -45,6 +45,7 @@ This is the teaching material that I use for laboratory lessons on practical dat
 *   Assigning Data
 *   Adding and deleting columns
 *   Grouping
+*   Merging
 
 ## 04 - Exploratory Data Analysis (EDA)
 
