@@ -46,7 +46,39 @@ This is the teaching material that I use for laboratory lessons on practical dat
 *   Adding and deleting columns
 *   Grouping
 
-## 04 - Regression
+## 04 - Exploratory Data Analysis (EDA)
+
+*   What is Exploratory Data Analysis (EDA)?
+*   Preliminary Exploration
+*   Descriptive Statistics
+*   [Data Visualization
+*   Pandas, Seaborn or Matplotlib?
+*   Summary of functions
+
+## 05 - Data Preparation
+
+*   What is Data Preparation?
+*   Missing values
+*   Figure out why the data is missing
+*   Dealing with missing values
+*   Drop missing values
+*   Imputation
+*   Imputation with scikit-learn
+*   Missing indicators
+*   Feature scaling
+*   Parsing dates
+*   Inconsistent data entry
+
+## 06 - Feature Engineering
+
+*   What is Feature Engineering?
+*   Handling categorical variables
+*   Creating features
+*   Principal Component Analysis
+*   Feature selection
+*   Mutual information
+
+## 07 - Regression
 
 *   What is Linear Regression?
 *   Why to use Linear Regression?
@@ -67,7 +99,7 @@ This is the teaching material that I use for laboratory lessons on practical dat
     * Cross-validation
 *   Hypothesis Testing
 
-## 05 - Classification
+## 08 - Classification
 
 *   What is Classification?
 *   What is Logistic Regression?
@@ -79,7 +111,7 @@ This is the teaching material that I use for laboratory lessons on practical dat
 *   Polynomial Logistic Regression
 *   Regularization
 
-## 06 - Clustering
+## 09 - Clustering
 
 *   What is Clustering?
 *   Distance Metrics
