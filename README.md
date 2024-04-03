@@ -52,7 +52,7 @@ This is the teaching material that I use for laboratory lessons on practical dat
 *   What is Exploratory Data Analysis (EDA)?
 *   Preliminary Exploration
 *   Descriptive Statistics
-*   [Data Visualization
+*   Data Visualization
 *   Pandas, Seaborn or Matplotlib?
 *   Summary of functions
 
