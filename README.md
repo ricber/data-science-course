@@ -81,6 +81,7 @@ This is the teaching material that I use for laboratory lessons on practical dat
 
 ## 07 - Regression
 
+*   What is Supervised Learning and Regression?
 *   What is Linear Regression?
 *   Why to use Linear Regression?
 *   How to use Linear Regression?
@@ -88,8 +89,8 @@ This is the teaching material that I use for laboratory lessons on practical dat
 *   Linear Regression with Scikit-Learn
 *   Least Squares Method
 *   Model Building
-*   Model Evaluation
     * Train-Validation-Test split
+*   Model Evaluation
 *   Linear Regression Assumptions
 *   Considerations of Multiple Linear Regression
     * Overfitting
@@ -99,6 +100,7 @@ This is the teaching material that I use for laboratory lessons on practical dat
 *   Model Selection 
     * Cross-validation
 *   Hypothesis Testing
+*   k-Nearest Neighbors Regression
 
 ## 08 - Classification
 
