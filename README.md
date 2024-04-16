@@ -113,6 +113,7 @@ This is the teaching material that I use for laboratory lessons on practical dat
 *   Visualize Predictions and Decision Boundaries
 *   Polynomial Logistic Regression
 *   Regularization
+*   k-Nearest Neighbors Classification
 
 ## 09 - Clustering
 
