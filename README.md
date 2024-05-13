@@ -115,7 +115,19 @@ This is the teaching material that I use for laboratory lessons on practical dat
 *   Regularization
 *   k-Nearest Neighbors Classification
 
-## 09 - Clustering
+## 09 - Decision Trees
+
+*   What are Decision Trees?
+*   How to build Decision Trees?
+*   Comparison with other models
+*   How do decision trees work?
+*   Class-imbalanced datasets
+*   Ensemble methods
+    *   Bagging
+    *   Random Forest
+    *   Boosting      
+
+## 10 - Clustering
 
 *   What is Clustering?
 *   Distance Metrics
