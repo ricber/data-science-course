@@ -1,4 +1,4 @@
-# Practical Data Science Lessons
+# Practical Data Science Course Lessons
 
 This is the teaching material that I use for laboratory lessons on practical data science for the following courses:
 *   Data Analytics for Smart Agriculture (I semester, Politecnico di Milano, Milan campus)
