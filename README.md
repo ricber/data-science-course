@@ -19,9 +19,10 @@ This is the teaching material that I use for laboratory lessons on practical dat
 *   Functions
 *   Dictionaries
 *   Classes and Objects
-*   Modules and Packages
 *   Basic String Operations
 *   String Formatting
+*   Scopes and Namespaces
+*   Modules and Packages
 
 ## 02 - NumPy
 
